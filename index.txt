@@ -1,1 +1,2 @@
 Day la noi dung cua file index.txt
+Them dong moi trong nhanh update-index
